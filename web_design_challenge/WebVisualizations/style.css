@@ -1,0 +1,21 @@
+
+   .Vis1 {
+      background: purple;
+    
+  }
+     .Vis2 {
+      background: yellow;
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      border: solid 2px black;
+    } */
+  
+     .Vis3 {
+      display: none;
+    } */
+  
+     .Vis4 {
+      transform: rotate(360deg);
+      transition: transform 0.5s ease-in;
+    } 
